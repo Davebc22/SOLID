@@ -1,0 +1,22 @@
+Proyecto: Calculadora de Áreas
+
+El objetivo de este proyecto es crear una calculadora que calcule el área de varias formas geométricas. se implementarán las siguientes clases siguiendo los principios SOLID:
+
+1. FORMA GEOMÉTRICA (CLASE ABSTRACTA):
+1.1 CLASE RECTÁNGULO
+1.2 CLASE CÍRCULO
+1.3 CLASE TRIÁNGULO
+1.4 CLASE MAIN
+
+Aplicación principios
+
+S
+Hacer una clase lógica
+O
+se puede extender la clase general sin ser modificada
+L
+deben ser sustituibles las clases derivadas
+I
+No aplicable
+D
+Clase de entrada y salida de datos
